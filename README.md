@@ -30,5 +30,27 @@ A fully responsive, pixel-perfect front-end clone of the YouTube homepage develo
 ---
 
 ## 📁 Project Structure
-/youtube-clone/ ├── youtube.html # Main HTML structure ├── general.css # Base styles and global resets ├── header.css # Header and top navigation bar styling ├── sidebar.css # Sidebar navigation styles ├── video.css # Video card and grid layout styles ├── thumbnails/ │ └── images/ # Video thumbnails ├── channel pictures/ │ └── images/ # Channel avatar/profile pictures ├── icons/ └── images/ # UI and functional icons (search, menu, etc.)
+/youtube-clone/
+<br>
+├── youtube.html # Main HTML structure
+<br>
+├── general.css # Base styles and global resets 
+<br>
+├── header.css # Header and top navigation bar styling 
+<br>
+├── sidebar.css # Sidebar navigation styles 
+<br>
+├── video.css # Video card and grid layout styles
+<br>
+├── thumbnails/ 
+<br>
+│ └── images/ # Video thumbnails
+<br>
+├── channel pictures/ 
+<br>
+│ └── images/ # Channel avatar/profile pictures 
+<br>
+├── icons/ 
+<br>
+└── images/ # UI and functional icons (search, menu, etc.)
 
