@@ -5,6 +5,7 @@ A fully responsive, pixel-perfect front-end clone of the YouTube homepage develo
 > ⚠️ This project is built for educational and portfolio purposes only. It does not include any backend functionality or content from YouTube's proprietary services.
 
 ---
+<hr>
 
 ## ✅ Key Features
 
@@ -15,7 +16,7 @@ A fully responsive, pixel-perfect front-end clone of the YouTube homepage develo
 - 🧼 **Clean CSS Architecture** – Separation of concerns via modular CSS files.
 
 ---
-
+<hr>
 ## 🧰 Technologies Used
 
 - **HTML5** – Semantic and accessible markup
@@ -27,4 +28,5 @@ A fully responsive, pixel-perfect front-end clone of the YouTube homepage develo
 ---
 
 ## 📁 Project Structure
+/youtube-clone/ ├── youtube.html # Main HTML structure ├── general.css # Base styles and global resets ├── header.css # Header and top navigation bar styling ├── sidebar.css # Sidebar navigation styles ├── video.css # Video card and grid layout styles ├── thumbnails/ │ └── images/ # Video thumbnails ├── channel pictures/ │ └── images/ # Channel avatar/profile pictures ├── icons/ └── images/ # UI and functional icons (search, menu, etc.)
 
