@@ -24,6 +24,8 @@ A fully responsive, pixel-perfect front-end clone of the YouTube homepage develo
   - Flexbox
   - Grid Layout
   - Media Queries (for responsiveness)
+  - Hover effects
+  - Custom Scrollbar
 
 ---
 
